@@ -2,46 +2,88 @@
 
 Atoms are the raw ingredients for all of the stuff you see around you.
 
-They combine with each other to make more interesting things called 'Molecules'.
+Air, water and even chocolate is all made of atoms.
+
+They combine with each other to make molecules.
+
+Molecules combine with each other to make all the interesting stuff in the world.
 
 ## ingredients
 
-Atoms and molecules are like raw ingredients for a chef.
+The same is true for the raw ingredients a chef will use to make some yummy food.
 
-The chef will use heat to combine these ingredients into something more interesting (yum).
+They use heat to combine basic ingredients into something more interesting (yum).
 
-Chemistry is the same thing really - in fact many great chefs approach cooking like chemistry!
+Many great chefs approach cooking just like chemistry because really, they are the same thing.
 
-The recipe for water? 2 Hydrogen atoms with 1 Oxygen atom
+The recipe for water? 2 Hydrogen atoms with 1 Oxygen atom.
 
 ## atomic numbers
 
-The character of each atom is decided by it's atomic number.  This means how many 'protons' and 'neutrons' are in the middle of the atom.
+The character of each atom is decided by it's atomic number.
 
-The simplest atom, Hydrogen has only 1 of each.
+This means how many 'protons' are in the middle of the atom.
 
-Complicated elements like Iron have many more.  You can see these numbers in the [the periodic table](http://en.wikipedia.org/wiki/Periodic_table).
+Protons are made of smaller quantum particles and they have a 'positive' electrical charge.
+
+## neutrons
+
+Alongside the protons, in the center of the atom are neutrons.
+
+Neutrons are made of different, smaller quantum particles and they don't have any electrical charge.
+
+## nuclear
+
+The protons and neutrons are bound to each other with a very strong nuclear force.
+
+A nuclear bomb uses this force when it 'splits' an atom.  This releases some of this very powerful energy as heat and light.
+
+## Higgs Boson
+
+The Higgs Boson is 'everywhere' - even in deep space where there are no atoms (known as a 'vacuum') - the Higgs is there.
+
+The protons and neutrons in the middle of atoms interact with the Higgs boson to gain 'weight'.
+
+## gravity
+
+The more protons and neutrons in an atom - the more it interacts with the Higgs Boson and so the more it weighs.
+
+That is why Iron, which has 26 protons and 30 neutrons, weighs more than the simplest atom, Hydrogen, which has only 1 proton and 1 neutron.
+
+Gravity is the attraction of things with weight to each other.
+
+Saying something is heavy is like saying it has a high gravitational pull.
+
+Everything falls to the earth because it is heavier than what is falling.
 
 ## electrons
 
-The electrons are very far away from the protons and neutrons in the 'middle'.
+Electrons do not interact with the Higgs Boson and so do not weigh anything.
 
-The cool thing about electrons is that they are not fussy about which atom they belong to.
+They whizz around the place at light speed (literally) and you cannot really say they are in any given place at any given time.
 
-Take a room full of people with each person breathing air.
+When you see diagrams of atoms with electrons in a single place - that never actually happens.
 
-On each breath a person takes, the air becomes part of them for a moment (breath in, breath out).
+Those diagrams represent the 'average' position of electrons - the electrons themselves are constantly in motion.
 
-A few moments later - that same air is a part of another person close by - the air is fair and it doesn't care!
+## electromagnetism
+
+What controls where electrons go is protons.
+
+That is because the electron and the proton form the 2 opposite ends of a magnet.
+
+Protons have a positive electrical charge and electrons a negative electrical charge.
+
+With magnets, opposites attract and so the electrons and protons are always trying to balance out.
 
 ## fairness
 
-Electrons are similar - they will happily travel between atoms and they do it very quickly (the speed of light to be exact).
+Because of this magnetic attraction, the mission of electrons is to be as fair as possible - they are always trying to have 1 electron next to 1 proton.
 
-Atoms do not notice that any particular electron was actually with another atom a moment before - they just cannot tell.
+If you have 1 proton and 2 electrons - there is an overall negative charge.
 
-You can test this - touch the wall with your finger.
+The moment a spare proton appears - 1 of the electrons will leave and join the spare proton.
 
-BOOM - huge numbers of electrons from the wall just swapped with the ones in your finger.
+Sometimes however - the electrons do not manage to get themselves next to one proton each.
 
-If the protons and neutrons had swapped, you would have wall on your finger and finger on the wall.
+Humans have learned to create this lack of electrons and turn it into electricity, which is the next section.
